@@ -1,0 +1,59 @@
+body
+{
+	background-image:url(Galaxy.jpg);
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	color:white;
+	margin-left:100px;
+	margin-right:100px;
+	margin-top:50px;
+}
+
+table, td, tr, th
+{
+	border: 2px solid white;
+	border-collapse:collapse;
+	width:"200%";
+	padding:13px;
+	background-color:grey;
+}
+
+h1
+{
+	background-color:#85C1E9;
+}
+
+h2
+{
+	font-size:25px;
+	background-color:#67C4D9;
+}
+
+a 
+{
+	color:lightblue;
+}
+
+li
+{
+	font-size:18px;
+}
+
+.spacing
+{
+	line-height:5px;
+}
+
+#heading
+{
+	font-size:40px;
+}
+
+#spacing
+{
+	line-height:50px;
+}
+
+#sources
+{
+	font-size:20px;
+}
